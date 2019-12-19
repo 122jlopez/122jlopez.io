@@ -28,7 +28,7 @@ ul{
   color:white;
   font-size:20px;
 }
-.border{
+div .border{
   border:4px solid black;
   height:4px;
   width:1980px;
@@ -44,5 +44,4 @@ table {
   background-color: blue;
 }
 .pickle{
-  border:2px solid black;
 }
