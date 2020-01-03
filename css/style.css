@@ -43,5 +43,13 @@ div .border{
 table {
   background-color: blue;
 }
-.pickle{
+iframe{
+  margin:50px;
+  padding: 5px;
+}
+.first hover{
+  font-size:20px;
+}
+#link a{
+  color:white;
 }
