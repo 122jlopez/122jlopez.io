@@ -23,8 +23,8 @@ ul{
 }
 .paragraph{
   text-align:left;
-  width: 580px;
-  margin: 0 auto;
+  width: 620px;
+  margin:left;
   color:white;
   font-size:20px;
 }
@@ -34,7 +34,6 @@ div .border{
   width:1980px;
   margin:50px;
   padding:10px;
-  margin:auto;
 }
 .link{
   color:white;
@@ -50,6 +49,18 @@ iframe{
 .first hover{
   font-size:20px;
 }
-#link a{
+#link a:hover{
   color:white;
+  font-size: 18px;
+}
+span{
+  color:blue;
+}
+.back{
+  margin:left;
+  text-align: left;
+  margin:20px;
+}
+.ball{
+  float:right;
 }
